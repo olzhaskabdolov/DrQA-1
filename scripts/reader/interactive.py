@@ -31,7 +31,7 @@ logger.addHandler(console)
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, default=None,
                     help='Path to model to use')
-parser.add_argument('--tokenizer', type=str, default=None,
+parser.add_argument('--tokenizer', type=str, default='regexp',
                     help=("String option specifying tokenizer type to use "
                           "(e.g. 'corenlp')"))
 parser.add_argument('--no-cuda', action='store_true',
