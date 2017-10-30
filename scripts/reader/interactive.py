@@ -66,8 +66,6 @@ def process(document, question, candidates=None, top_n=1):
     table = prettytable.PrettyTable(['Rank', 'Span', 'Score'])
     for i, p in enumerate(predictions, 1):
         table.add_row([i, p[0], p[1]])
-    print(table)
-    print('Time: %.4f' % (time.time() - t0))
 
     top_pred = predictions[0]
     return top_pred[1]
