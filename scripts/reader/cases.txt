@@ -1,0 +1,167 @@
+1 Profitability right now is at a rate of break even. We don't bring any profits
+1.1 Revenue is now 20 000 USD/month
+1.1.1 Actually, we have several items in our product line, so I can't give you a single price.
+1.1.1.1 The pricing of the units has remained the same
+1.1.1.2 Pricing is on the same level as for our competition
+1.1.1.3 The dynamics of competitors' pricing has been steady as well
+1.1.1.4 Ok, so we have high end items, which are sold at 1 000 USD and manual items, which are sold at 500 USD
+1.1.1.4.4 Well, the reason for that is that the market demand tells us so.
+1.1.2 We sell 35 units a month in total.
+1.1.2.1 The total number of units that the client sells has gone up from 30 units a month to 35
+1.1.2.2 Competition's quantity sold is unknown to us, but the management thinks that their sales are on about the same level
+1.1.2.3 We currently don't have any information on the competition's quantity sold, but the client thinks that their quantity sold follows the same trend as ours - it grows
+1.1.2.4 Ok, we are now selling about 5 units of the automated coffee machines per month. And selling about 30 units a month of the manual coffee machines.
+1.1.2.4.1 So unit sales, 30 units were sold historically, in the past, for the high end coffee machines. And they used to not sell any of the manual coffee machines. Now, the situation is different, the automated coffee machines comprise 5 units and manual ones make up 30 units of sales
+1.1.2.4.1.1 Well, as the data suggests the market for the coffee machines has slowed down. Probably the nature of demand changed too, but you'll need to find the exact reason yourself.
+1.1.2.4.1.1.1 Okay, it seems like the pricing for the product has been the same and the pricing didn't affect the situation
+1.1.2.4.1.1.2 Demand is expected to shrink.
+1.1.2.4.1.1.2.1 This is because users of our product line are mostly one time buyers, which are not going to buy the same product twice. There is less and less of these customers now.
+1.1.2.4.1.1.2.2 I think we can rely on the current market trend and so most likely this information is not subject to change. 
+1.1.2.4.1.1.2.1.1 You know, customers that buy the coffee machines are either diminishing in numbers or reducing their buying power.
+1.1.2.4.1.1.2.3 Well, it is hard to choose among many factors that affect this trend. Perhaps biggest of them would be the macro economic situation in the region.
+1.1.2.4.1.1.2.3.1 The market situation in the region is expected to worsen.
+1.1.2.4.1.1.2.3.2 It affects the demand in a way that our clients' decision is mostly dependent on their financial situation, which in turn is hugely vulnerable to the changes in economy
+1.1.2.4.1.1.2.4 I think there is no much source that would give a more precise information. Or the gain in precision would be too expensive
+1.1.2.4.1.1.4 We don't know the quantitative figures but the demand for these type of product is low
+1.1.2.4.2 Selling pattern of competitors is the same
+1.1.2.4.3 Competitors follow pretty much the same selling pattern in rise of unit sold
+1.1.2.4.4 Well, I guess, you have to find out why
+1.1.3 Revenue is declining at a significant rate from 30 000 USD to current value
+1.1.4 Our revenue is generally at the same level with our competitors, except maybe some insignificant difference within several percents.
+1.1.5 Revenue is now declining for all of our competition at roughly the same rate: 30, 40 per cent
+1.2 Costs comprised 20 000 USD/month
+1.2.1 I think the segmentation by fixed and variable costs is insignificant, but let's assume that our friend's store costs are all variable.
+1.2.1.1 Competition's cost structure is roughly the same.
+1.2.2 Costs are now declining for all of our competition at roughly the same rate as well
+1.2.3 Costs have fallen at exactly the same rate as sales did
+1.2.4 The cost structure along the supply chain is hardly relevant for our discussion. But let us, for the sake of the argument assume that the costs are equally spread between two branches production and the transportation..
+1.2.5 Cost usually take up to 75% of the revenues
+1.3 Profits have been down from 10 000 USD per month to break even point.
+1.4 Competition's profits are on the same level
+1.5 Competition's decline in profits is on the same level
+2 Profitability right now is at a rate of break even. We don't bring any profits. And we have two major revenue streams one is automated coffee machines and another is manual coffee machines
+2.1 Automated coffee machines bring profit of 1 666.8 USD per month
+2.1.1 Automated coffee machines' revenue comprises 5 000 USD per month.
+2.1.1.1 Price for the automated coffee machines is 1 000 USD
+2.1.1.1.1 The price for the item has been steady for the last several years
+2.1.1.1.2 Competition's price is the same
+2.1.1.1.4 The automated coffee machines are all sold at the same price
+2.1.1.2 We sold 5 units of automated coffee machines
+2.1.1.2.1 The number of automated coffee machines sold has fallen from 30 units to 5 units
+2.1.1.2.1.1 Well, as the data suggests the demand on the coffee machines has fallen.
+2.1.1.2.1.1.1 Okay, it seems like the pricing for the product has been the same and the pricing didn't affect the situation
+2.1.1.2.1.1.2 Demand is expected to shrink.
+2.1.1.2.1.1.2.1 This is because users of this product are mostly one time buyers, which are not going to buy the same product twice. There is less and less of these customers now.
+2.1.1.2.1.1.2.2 I think this information is not subject to change
+2.1.1.2.1.1.2.3 Well, it is hard to choose among many factors that affect this trend. Perhaps biggest of them would be the macro economic situation in the region.
+2.1.1.2.1.1.2.3.1 The market situation in the region is expected to worsen.
+2.1.1.2.1.1.2.3.2 It affects the demand in a way that our clients' decision is mostly dependent on their financial situation, which in turn is hugely vulnerable to the changes in economy
+2.1.1.2.1.1.2.4 I think there is no much source that would give a more precise information. Or the gain in precision would be too expensive
+2.1.1.2.1.1.3 This is because our client base has shrunk.
+2.1.1.2.1.1.3.1 You know, customers that buy the automated coffee machines are diminishing in numbers.
+2.1.1.2.1.1.4 We don't know the quantitative figures but the demand for these type of product is low
+2.1.1.2.2 Competition sells roughly the same amount of units
+2.1.1.2.3 Competition follows approximately the same trend in decline for the number of automated coffee machines sold
+2.1.1.2.4 The quantity sold is uniform and consists solely of automated coffee machines
+2.1.1.3 The total revenues from automated coffee machines has fallen from about 30 000 a month to around 6 000 USD
+2.1.1.3.1 Well, as the data suggests the demand on the coffee machines has fallen
+2.1.1.3.1.1 Okay, it seems like the pricing for the product has been the same and the pricing didn't affect the situation
+2.1.1.3.1.2 Demand is expected to shrink
+2.1.1.3.1.2.1 This is because users of this product are mostly one time buyers, which are not going to buy the same product twice. There is less and less of these customers now.
+2.1.1.3.1.2.2 I think this information is not subject to change
+2.1.1.3.1.2.3 Well, it is hard to choose among many factors that affect this trend. Perhaps biggest of them would be the macro economic situation in the region.
+2.1.1.3.1.2.3.1 The market situation in the region is expected to worsen.
+2.1.1.3.1.2.3.2 It affects the demand in a way that our clients' decision is mostly dependent on their financial situation, which in turn is hugely vulnerable to the changes in economy
+2.1.1.3.1.2.4 I think there is no much source that would give a more precise information. Or the gain in precision would be too expensive
+2.1.1.3.1.3 This is because our client base has shrunk.
+2.1.1.3.1.3.1 You know, customers that buy the automated coffee machines are diminishing in numbers.
+2.1.1.3.1.4 We don't know the quantitative figures but the demand for these type of product is low
+2.1.1.4 Okay, it turns out for all the competitors have experienced a similar decrease in sales and revenue for automated coffee machines.
+2.1.1.5 Okay, it turns out for all the competitors have similar values for the revenue from automated coffee machines
+2.1.2 Cost from selling the automated coffee machines is 3 333.3 USD
+2.1.2.1 I think the segmentation by fixed and variable costs is insignificant, but let's assume that our friend's store costs are all variable.
+2.1.2.1.1 Competition's cost structure is roughly the same.
+2.1.2.2 Costs are now declining for all of our competition at roughly the same rate
+2.1.2.3 Costs have fallen at exactly the same rate as sales did
+2.1.2.4 The cost structure along the supply chain is hardly relevant for our discussion. But let us, for the sake of the argument assume that the costs are equally spread between two branches production and the transportation..
+2.1.2.5 Cost for automated coffee machines usually take up to 66% of the revenues
+2.1.3 Profits have been down from 30 000 USD per month to current 1 666.8 USD point.
+2.1.4 Competition's profits are on the same level
+2.1.5 Competition's decline in profits is on the same level
+2.2 Manual coffee machines. bring negative profit of 1 666.8 USD
+2.2.1 The manual coffee machines give us 15 000 USD in sales
+2.2.1.1 Manual coffee machines' price was 500 USD
+2.2.1.1.1 The price for the item has been steady for the last several years
+2.2.1.1.2 Competition's price is the same
+2.2.1.1.3 Competition's price has been steady for the recent years as well
+2.2.1.1.4 The manual coffee machines are all sold at the same price
+2.2.1.2 The client managed to sell 30 manual coffee machines
+2.2.1.2.1 the number of manual coffee machines sold has risen from none to 30 units
+2.2.1.2.1.1 Well, as the data suggests the demand on the coffee machines has rose
+2.2.1.2.1.1.1 Okay, it seems like the pricing for the product has been the same and the pricing didn't affect the situation
+2.2.1.2.1.1.2 Demand is expected to shrink
+2.2.1.2.1.1.2.1 This is because users of this product are doing a single time purchase, which is not going to be repeated again.
+2.2.1.2.1.1.2.2 I think this information is not subject to change
+2.2.1.2.1.1.2.3 Well, it is hard to choose among many factors that affect this trend. Perhaps biggest of them would be the macro economic situation in the region.
+2.2.1.2.1.1.2.3.1 The market situation in the region is expected to worsen.
+2.2.1.2.1.1.2.3.2 It affects the demand in a way that our clients' decision is mostly dependent on their financial situation, which in turn is hugely vulnerable to the changes in economy
+2.2.1.2.1.1.2.4 I think there is no much source that would give a more precise information. Or the gain in precision would be too expensive
+2.2.1.2.1.1.3 This is because our client base has expanded.
+2.2.1.2.1.1.3.1 You know, customers that buy this certain manual coffee machines are grown in numbers.
+2.2.1.2.1.1.4 We don't know the quantitative figures but the demand for these type of product is high
+2.2.1.2.2 Competition sells roughly the same amount of units
+2.2.1.2.3 Competition follows approximately the same trend in rise for the number of manual coffee machines sold
+2.2.1.2.4 The quantity sold is uniform and consists solely of manual coffee machines
+2.2.1.3 Revenues from we’ll call them manual coffee machines if you would, has grown from none in the past, to 15 000 USD
+2.2.1.3.1 Well, as the data suggests the demand on the coffee machines has rose
+2.2.1.3.1.1 Okay, it seems like the pricing for the product has been the same and the pricing didn't affect the situation
+2.2.1.3.1.2 Demand is expected to shrink
+2.2.1.3.1.2.1 This is because users of this product are doing a single time purchase, which is not going to be repeated again.
+2.2.1.3.1.2.2 I think this information is not subject to change
+2.2.1.3.1.2.3 Well, it is hard to choose among many factors that affect this trend. Perhaps biggest of them would be the macro economic situation in the region.
+2.2.1.3.1.2.3.1 The market situation in the region is expected to worsen.
+2.2.1.3.1.2.3.2 It affects the demand in a way that our clients' decision is mostly dependent on their financial situation, which in turn is hugely vulnerable to the changes in economy
+2.2.1.3.1.2.4 I think there is no much source that would give a more precise information. Or the gain in precision would be too expensive
+2.2.1.3.1.3 This is because our client base has expanded.
+2.2.1.3.1.3.1 You know, customers that buy this certain manual coffee machines are grown in numbers.
+2.2.1.3.1.4 We don't know the quantitative figures but the demand for these type of product is high
+2.2.1.4 Okay, it turns out for all the competitors they have experienced a similar rise in revenue for manual coffee machines.
+2.2.1.5 Competition's revenues from this type of coffee machines are on the same level
+2.2.2 Manual coffee machines give us 16 666.8 USD in costs
+2.2.2.1 I think the segmentation by fixed and variable costs is insignificant, but let's assume that our friend's store costs are all variable.
+2.2.2.1.1 Competition's cost structure is roughly the same.
+2.2.2.2 Costs are now rising for all of our competition at roughly the same rate
+2.2.2.3 Costs have risen at exactly the same rate as sales did
+2.2.2.4 The cost structure along the supply chain is hardly relevant for our discussion. But let us, for the sake of the argument assume that the costs are equally spread between two branches production and the transportation..
+2.2.2.5 Cost for manual coffee machine usually takes up to 111% of the revenues
+2.2.3 Profits have been down from break even point to negative profit of 1 666.8 USD
+2.2.4 Competition's profits are on the same level
+2.2.5 Competition's decline in profits is on the same level
+2.3 Let us consider services is an insignificant part of our business
+2.4 Profits have been down from 10 000 USD per month to break even point.
+2.5 Competition's profits are on the same level
+2.6 Competition's decline in profits is on the same level
+2.7 The revenue structure of our competitors is pretty much the same as ours.
+4 This is because users of our product are mostly one time buyers, which are not going to buy the same product twice. Moreover, there are less and less of our customers now.
+4.1 Ok, great. How would you like to cut costs on our product line?
+4.1.1 Well, cutting the costs along the supply chain is very hard or will come at a very high price, because generally, company runs very lean
+4.1.2 Well, cutting our variable costs may be a tough choice, because all of variable costs are already minimized.
+4.1.3 We can't cut our fixed costs, because they a) they already take negligible amount of our costs b) cutting them even by a cent will heavily influence our business.
+4.1.4 Well, I would agree that the costs are very hard to be cut.
+4.2 Ok, great. How would you like to increase revenue on our product line?
+4.2.1 It seems like the new customers are very hard to reach because our current clients are all within the 50 miles range
+4.2.1.1 The creation of new client base outside of this territory is hard to implement because that would lead to almost doubling of our costs
+4.2.1.2 The geographical method used to determine the location of our customers was precise enough
+4.2.2 No, current users can't find an application for the existing product, because of the product nature (it is just a coffee machine)
+4.2.3 No, there were attempts to cooperate with some bigger competitors, but they offered too harsh conditions, that the management didn't want to work with. Smaller competitors would not be able to offer any additional value
+4.2.4 I think there is not much we can do about it, because the third revenue stream is almost negligible and has very small room for improvement.
+4.2.5 Creation of new revenue streams is very hard, because our management is stuck on the existing model and the only thing they want to do is to sell the coffee machines.
+4.4 Ok, I would agree that we have to do something with the company' equity.
+4.4.1 Hmm, are you sure we can sell the company?
+4.4.1.1 Well, I think that you came to a reasonable decision.
+4.4.1.2 Ok, what other factors you would like to look at?
+4.4.2 Ok, but I hope you see that closing the company will likely lead to loosing the jobs created and may be linked with some loss of the opportunity costs of selling the business. Are you sure?
+4.4.2.1 Well, I think that you came to a reasonable decision.
+4.4.2.2 Great, then I think you might check some other factors as well.
+4.4.3 Well, leaving the company "as is" may not be a great option, because managers expect the negative prospects of the market.
+

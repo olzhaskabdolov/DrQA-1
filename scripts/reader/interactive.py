@@ -29,7 +29,7 @@ logger.addHandler(console)
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--model', type=str, default=None,
+parser.add_argument('--model', type=str, default='/Users/olzhas/PycharmProjects/bot/data/reader/multitask.mdl',
                     help='Path to model to use')
 parser.add_argument('--tokenizer', type=str, default='regexp',
                     help=("String option specifying tokenizer type to use "
@@ -69,6 +69,8 @@ def process(document, question, candidates=None, top_n=1):
     print(table)
     print('Time: %.4f' % (time.time() - t0))
 
+    top_pred = predictions[0]
+    return top_pred[1]
 
 banner = """
 DrQA Interactive Document Reader Module
@@ -81,4 +83,4 @@ def usage():
     print(banner)
 
 
-code.interact(banner=banner, local=locals())
+# code.interact(banner=banner, local=locals())
