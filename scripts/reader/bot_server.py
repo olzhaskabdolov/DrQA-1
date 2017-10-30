@@ -43,6 +43,7 @@ if __name__ == "__main__":
     global cases_dict
     with open('cases.txt') as f: my_lines = f.readlines()
     for i in my_lines:
+        print(i)
         id_text = i.split(' ', maxsplit=1)
         cases_dict[id_text[0]] = id_text[1]
 
