@@ -8,7 +8,6 @@ import requests
 import json
 import interactive
 
-cases_dict = {}
 
 
 
