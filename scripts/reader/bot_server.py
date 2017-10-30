@@ -41,7 +41,7 @@ def make_app():
 
 if __name__ == "__main__":
     global cases_dict
-    with open('cases.txt') as f: my_lines = f.readlines()
+    with open('cases.txt', 'r') as f: my_lines = f.readlines()
     for i in my_lines:
         print(i)
         print("WAHAHAHAHAHAHAHAH")
