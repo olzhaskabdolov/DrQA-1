@@ -12,11 +12,12 @@ import interactive
 
 
 class MainHandler(tornado.web.RequestHandler):
-	def post(self):
-		question=self.get_argument('question','')
-		print(question)
-		response = findQuestionId(question)
-        	self.write(tornado.escape.json_encode(response))
+    def post(self):
+        data=tornado.escape.json_decode(self.request.body)
+        question = data['question']
+        print(question)
+        response = findQuestionId(question)
+        self.write(tornado.escape.json_encode(response))
 
 def findQuestionId(question):
     global cases_dict
