@@ -29,7 +29,7 @@ logger.addHandler(console)
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--model', type=str, default='/Users/olzhas/PycharmProjects/bot/data/reader/multitask.mdl',
+parser.add_argument('--model', type=str, default='home/olzhas/bot/data/reader/multitask.mdl',
                     help='Path to model to use')
 parser.add_argument('--tokenizer', type=str, default='regexp',
                     help=("String option specifying tokenizer type to use "
