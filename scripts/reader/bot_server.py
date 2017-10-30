@@ -8,7 +8,7 @@ import requests
 import json
 import interactive
 
-cases_dict
+cases_dict = {}
 
 
 
@@ -16,11 +16,11 @@ class MainHandler(tornado.web.RequestHandler):
     def post(self):
         data = tornado.escape.json_decode(self.request.body)
         question=data('question')
-        respo1nse = findQuestionId(question)
+        response = findQuestionId(question)
         self.write(tornado.escape.json_encode(response))
 
 def findQuestionId(question):
-    #do your magic here
+    global cases_dict
     max_score=0
     max_key = 0
     for key in cases_dict.keys():
@@ -41,7 +41,6 @@ def make_app():
 
 if __name__ == "__main__":
     global cases_dict
-    cases_dict = {}
     with open('cases.txt', 'r') as f: my_lines = f.readlines()
     print(len(my_lines))
     print(type(my_lines))
