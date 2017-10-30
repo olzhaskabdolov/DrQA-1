@@ -17,7 +17,8 @@ class MainHandler(tornado.web.RequestHandler):
         question = data['question']
         print(question)
         response = findQuestionId(question)
-	print(response)
+
+        print(response)
         self.write(tornado.escape.json_encode(response))
 
 def findQuestionId(question):
